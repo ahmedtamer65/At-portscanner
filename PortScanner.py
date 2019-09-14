@@ -38,7 +38,9 @@ try:
         t2=datetime.now()
         t3=t2-t1
     print ("Scanning Completed On %s"%t3)
-    print ("scar")
+    print (" created by scar ")
+    print ("thank you ")
+    print ("good by....have a nice day")
 except KeyboardInterrupt:
     print(gr+"By :AhmedTamer(scar)")
     print(rd+"See You Soon...!")
