@@ -1,16 +1,15 @@
 # At-portscanner
 
-# apt update
+1-apt update
 
-apt upgrde
+2-apt upgrde
 
-pkg install git
+3-pkg install git
 
-pkg install python 
+4-pkg install python 
 
-pkg install python2 
+5-pkg install python2 
 
-chmod +x PortScanner.py
+6-chmod +x PortScanner.py
 
-python PortScanner.py
-
+7-python PortScanner.py
